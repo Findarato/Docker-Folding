@@ -1,0 +1,9 @@
+<config>
+  <user value="Findarato"/>
+  <team value="223518"/>
+  <passkey value="21a29232ee8a22a210f3608cb64fbaf6"/>
+
+  <power value="full"/>
+  <gpu value="true"/>
+  <fold-anon value="false"/>
+</config>
